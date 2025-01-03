@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HSViviana
 - 🎓 I'm a PhD candidate in Hotel Management in Seoul.
 - 👶 I was born in South Korea, was raised in Mexico City, and studied in Switzerland.
-- 👀 I’m interested in Hospitality, Tourism, IT, Accounting, MKT, Art, Sports, and etc.
+- 👀 I’m interested in Hospitality, Tourism, AI, Accounting, MKT, Art, Sports, and etc.
 - ⭕ I'm an open-minded person.
 - 🌱 I’m currently learning Python and Java.
 - 💞️ I’m looking to collaborate on ...
