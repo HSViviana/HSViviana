@@ -3,7 +3,7 @@
 - 👶 I was born in South Korea, was raised in Mexico City, and studied in Switzerland.
 - 👀 I'm interested in Hospitality, Tourism, AI, Accounting, MKT, Art, Sports, and etc.
 - ⭕ I'm an open-minded person.
-  
+\n
 - 🌱 I'm currently learning Python and Java.
 - 💞️ I'm looking to collaborate on ...
 - 📫 You can always e-mail me.
