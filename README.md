@@ -9,7 +9,6 @@
 - 📫 You can always e-mail me.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
 <!---
 HSViviana/HSViviana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
