@@ -5,7 +5,7 @@
 - ⭕ I'm an open-minded person.
   <br>
 - 🌱 I'm currently learning Python and Java.
-- 💞️ I'm looking to collaborate on .
+- 💞️ I'm looking to collaborate on .,,
 - 📫 You can always e-mail me...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
